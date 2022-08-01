@@ -35,4 +35,4 @@ cv2.destroyAllWindows()
 
 # github test중
 
-#다시 변경하자
+#다시 변경하자!
